@@ -8,7 +8,7 @@ This is a test to try and learn GitHub and markdown.
 
 *this should be italicized*
 
-# **BOLD**
+# **BOLUS**
 
 ~~scratch this~~
 
